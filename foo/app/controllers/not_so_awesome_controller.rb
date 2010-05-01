@@ -1,0 +1,2 @@
+class NotSoAwesomeController < ApplicationController
+end
